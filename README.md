@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
+# Estate Agents in Merthyr Tydfil
 
 _Create a site or blog from your GitHub repositories with GitHub Pages._
 
@@ -19,12 +19,15 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
   and tell the learner why they should take the course.
 -->
 
-## Welcome
+## Introduction
 
-With GitHub Pages, you can host project blogs, documentation, resumes, portfolios, or any other static content you'd like. Your GitHub repository can easily become its own website. In this course, we'll show you how to set up your own site or blog using GitHub Pages.
+Choosing the right estate agent in Merthyr Tydfil is crucial whether you're looking to buy, sell, or rent a property. With many agents operating in the area, it can be tough to know who to trust. Here’s a look at what makes a good estate agent and why local knowledge is key.
 
-- **Who is this for**: Beginners, students, project maintainers, small businesses.
-- **What you'll learn**: How to build a GitHub Pages site.
+### Local Knowledge is Key
+
+Merthyr Tydfil, a town with rich industrial history and stunning countryside, offers a diverse range of properties. From Victorian houses to modern flats, it’s essential to choose an estate agent with in-depth knowledge of the area. A local agent will know the best areas for your needs, whether you want easy access to transport links or a quiet, family-friendly neighbourhood.
+
+### Services Offered by Estate Agents in Merthyr Tydfil
 - **What you'll build**: We'll build a simple GitHub Pages site with a blog. We'll use [Estate Agents Merthyr Tydfil](https://www.tsamuel.co.uk/estate-agents-merthyr-tydfil/), a static site generator.
 - **Prerequisites**: If you need to learn about branches, commits, and pull requests, take [Introduction to GitHub](https://github.com/skills/introduction-to-github) first.
 - **How long**: This course takes less than one hour to complete.
